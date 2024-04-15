@@ -3,7 +3,6 @@
 
 ## Command for instalation
 pip install pygame
-
-## Run the command first after run the code , it will open in different window.
+Run the command first after run the code , it will open in different window.
 
 # Enjoy!!
